@@ -63,3 +63,14 @@ For this task, write a Python script that converts a specific number of hours in
 - Task Description:
 
 Create a Python script that asks the user for their current age and then calculates how old they will be in a specific future year. This task introduces handling user input and reinforces arithmetic operations.
+
+## Personal Finance Calculator
+
+- Objective:
+  
+  Use user input, variables, and arithmetic operations to calculate and provide feedback on a user’s monthly savings and potential future savings without applying conditional statements.
+
+- Task Description:
+
+You will create a script named finance_calculator.py. This script will calculate the user’s monthly savings based on inputted monthly income and expenses. It will then project these savings over a year, assuming a fixed interest rate, to demonstrate compound interest’s effect on savings.
+
