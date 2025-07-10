@@ -43,3 +43,13 @@ Your task is to complete a Python script that calculates the simple interest ear
 - Task Description:
 
 For this task, you are to write a Python script that calculates the area of a rectangle. The area of a rectangle is found by multiplying its length by its width.
+
+## Convert Hours to Seconds
+
+- Objective:
+  
+  Demonstrate understanding of variable assignments and arithmetic operations by converting a given number of hours into seconds.
+
+- Task Description:
+
+For this task, write a Python script that converts a specific number of hours into seconds. This task reinforces the concept of arithmetic operations within a practical context.
