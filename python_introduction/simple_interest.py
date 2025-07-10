@@ -2,8 +2,8 @@
 #The formula for simple interest is (I = P * R * T).
 
 # Declared 3 variable
-principal = int(1000)
-rate = float(0.05)
+principal = 1000
+rate = 0.05
 time = 3
 
 # calculate the simple interest
