@@ -53,3 +53,13 @@ For this task, you are to write a Python script that calculates the area of a re
 - Task Description:
 
 For this task, write a Python script that converts a specific number of hours into seconds. This task reinforces the concept of arithmetic operations within a practical context.
+
+## User Input Age Calculator
+
+- Objective:
+  
+  Practice receiving user input in Python and perform a simple arithmetic operation to calculate the user’s age in a future year.
+
+- Task Description:
+
+Create a Python script that asks the user for their current age and then calculates how old they will be in a specific future year. This task introduces handling user input and reinforces arithmetic operations.
