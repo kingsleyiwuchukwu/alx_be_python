@@ -16,5 +16,5 @@ projectSaving = annual_savings + (annual_savings * rate)
 
 # Output Results:
 
-print(f"Your monthly savings are ${savings:.2f}" )
+print(f"Your monthly savings are ${monthly_savings:.2f}" )
 print(f"Projected savings after one year, with interest, is: ${projectSaving:.2f}")
