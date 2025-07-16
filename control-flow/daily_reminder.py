@@ -9,7 +9,16 @@
 
 # # Process the task based on priority using match case
 # match priority:
+#     case 'high':
+#         reminder = f"Reminder: '{task}' is a {priority} priority task."
+#     case 'medium':
+#         reminder = f"Reminder: '{task}' is a {priority} priority task."
+#     case 'low':
+#         reminder = f"Reminder: '{task}' is a {priority} priority task."
+#     case _:
+#         reminder = f"Reminder: '{task}' has an unknown priority level."
 
+# daily_reminder.py
 
 # Prompt the user for task details
 task = input("Enter your task: ")
@@ -28,3 +37,12 @@ match priority:
     case _:
         print(f"Reminder: '{task}' has an unknown priority level.")
 
+
+# # Check time sensitivity
+# if time_bound == 'yes':
+#     reminder += " that requires immediate attention today!"
+# elif time_bound == 'no' and priority == 'low':
+#     reminder += " Consider completing it when you have free time."
+
+# # Print the final reminder
+# print(reminder)
