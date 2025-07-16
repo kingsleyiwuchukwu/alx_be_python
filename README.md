@@ -73,4 +73,3 @@ Create a Python script that asks the user for their current age and then calcula
 - Task Description:
 
 You will create a script named finance_calculator.py. This script will calculate the user’s monthly savings based on inputted monthly income and expenses. It will then project these savings over a year, assuming a fixed interest rate, to demonstrate compound interest’s effect on savings.
-
