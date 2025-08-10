@@ -1,3 +1,5 @@
+# Objective: Master Python magic methods by implementing a Book class that incorporates constructors (__init__), destructors (__del__),
+# and the representation methods (__str__ and __repr__).
 
 class Book:
     def __init__(self, title: str, author: str, year: int):
